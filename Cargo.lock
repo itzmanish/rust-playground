@@ -14,7 +14,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "first-rust"
+name = "rust-playground"
 version = "0.1.0"
 dependencies = [
  "ferris-says",
